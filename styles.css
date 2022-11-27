@@ -1,0 +1,41 @@
+input[type=text] {
+    border-radius: 24px;
+    height: 24px;
+    width: 400px;
+    padding: 10px 20px;
+    border: 1px solid #dfe1e5;
+}
+
+input[type=submit] {
+    font-size: 14px;
+    height: 36px;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    color: #3c4043;
+    background-color: #f8f9fa;
+}
+
+div.form {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#layout {
+    height: 90vh;
+}
+
+#cabecalho {
+    text-align: right;
+    font-family: Arial;
+}
+
+a {
+    padding: 0 10px;
+    color: black;
+    text-decoration: none;
+}

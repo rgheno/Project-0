@@ -1,0 +1,19 @@
+h2 {
+    color: #d93025;
+    font-family: arial,sans-serif;
+    margin-left: 10px;
+}
+
+div.linha {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+div.coluna {
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+}
